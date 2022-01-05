@@ -40,6 +40,45 @@ span{
     font-size: 13px;
     margin-bottom: 20px;
 }
-small{
+.size{
     font-size: 11px;
+}
+.second-portion h1{
+    text-align: right;
+    color: tomato;
+}
+.h-1{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.second-portion{
+    width: 40%;
+    margin-top: 50px;
+   
+
+}
+.second-portion img{
+    width: 100px;
+}
+
+.first-illust{
+    background-color: skyblue;
+    padding: 20px;
+    border-radius: 20px;
+    margin-left: 90px;
+}
+.second-illust{
+    padding: 20px;
+    border-radius: 20px;
+    background-color: lightgreen;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.third-illust{
+    padding: 20px;
+    border-radius: 20px;
+    background-color: lightpink;
+    margin-right: 90px;
 }
