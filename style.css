@@ -104,11 +104,77 @@ a:hover{
     margin-left: -100px;
 }
 .third-fixed h2{
-    margin-right: 250px;
+    margin-right: 400px;
 }
 .developer-skills{
     background-image: url(images/shapes/shape-1.png);
     background-repeat: no-repeat;
     background-size: 160px;
     background-position: left;
+}
+
+.fourth-portion{
+    width: 60%;
+    margin-top: 70px;
+    margin-left: 90px;
+}
+.fourth-portion img{
+    width: 300px;
+    margin-left: 30px;
+    margin-bottom: 50px;
+}
+.fourth-portion h2{
+    margin-right: 300px;
+}
+.success{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 150px;
+    background-position: 88% 100% ;
+}
+.sofa{
+    color: green;
+}
+.fifth-portion{
+    width:40%;
+    margin-top: 70px;
+    margin-left: 20px;
+    margin-right: 100px;
+    padding: 20px;
+    
+}
+.fifth-portion img{
+    width: 160px;
+    margin-left: 300px;
+    margin-bottom: 50px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px gray;
+}
+.fifth-portion h1{
+    font-size: 40px;
+}
+.sofa-score{
+    background-image: url(images/shapes/shape-5.png);
+    background-repeat: no-repeat;
+    background-size: 100px;
+    background-position: 25% 10%;
+
+}
+.image-fix{
+    background-image: url(images/shapes/shape-3.png);
+    background-repeat: no-repeat;
+    background-size: 70px;
+    background-position: 68% 90% ;
+}
+footer h2{
+    text-align: center;
+    font-family: 'Lobster', cursive;
+}
+footer p{
+    text-align: center;
+}
+footer{
+    padding: 15px;
+    color: white;
+    background-color: black;
 }
