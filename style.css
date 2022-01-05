@@ -14,7 +14,7 @@ section{
 .first-portion img{
     width: 300px;
     padding-left: 20px;
-    padding-top: 20px;
+    padding-top: 55px;
     margin-left: 90px;
 }
 .first-portion h1{
@@ -53,8 +53,9 @@ a:hover{
 }
 .h-1{
     text-align: center;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    font-size: 40px;
 }
 
 .second-portion{
@@ -96,7 +97,7 @@ a:hover{
 .third-portion img{
     width: 300px;
     margin-left:90px ;
-    margin-top: 70px;
+    margin-top: 90px;
       
 }
 .third-fixed{
@@ -104,7 +105,8 @@ a:hover{
     margin-left: -100px;
 }
 .third-fixed h2{
-    margin-right: 400px;
+    margin-right: 300px;
+    font-size: 30px;
 }
 .developer-skills{
     background-image: url(images/shapes/shape-1.png);
@@ -124,7 +126,8 @@ a:hover{
     margin-bottom: 50px;
 }
 .fourth-portion h2{
-    margin-right: 300px;
+    margin-right: 200px;
+    font-size: 30px;
 }
 .success{
     background-image: url(images/shapes/shape-1.png);
@@ -177,4 +180,5 @@ footer{
     padding: 15px;
     color: white;
     background-color: black;
+    margin-top: 30px;
 }
