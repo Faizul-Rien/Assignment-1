@@ -7,14 +7,15 @@ section{
 
 .first-portion{
     width: 60%;
-    margin-left: 150px;
+    margin-left: 90px;
     margin-top: 30px;
-    margin-right: 80px;
+    margin-right: 100px;
 }
 .first-portion img{
     width: 300px;
     padding-left: 20px;
     padding-top: 20px;
+    margin-left: 90px;
 }
 .first-portion h1{
     font-size: 50px;
@@ -35,6 +36,9 @@ span{
     text-decoration: none;
     color: white;
     font-size: 13px;
+}
+a:hover{
+    background-color: green;
 }
 .para-fixed{
     font-size: 13px;
@@ -81,4 +85,30 @@ span{
     border-radius: 20px;
     background-color: lightpink;
     margin-right: 90px;
+}
+
+.third-portion{
+    width: 40%;
+    margin-right: 90px;
+   
+    
+}
+.third-portion img{
+    width: 300px;
+    margin-left:90px ;
+    margin-top: 70px;
+      
+}
+.third-fixed{
+    margin-top: 120px;
+    margin-left: -100px;
+}
+.third-fixed h2{
+    margin-right: 250px;
+}
+.developer-skills{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 160px;
+    background-position: left;
 }
